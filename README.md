@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# MY POKEDEX
+## DEMO https://my-pokedex.netlify.com/#/
+
+tuto by Chris Stayte https://github.com/ChrisStayte
+
 
 ## Available Scripts
 
